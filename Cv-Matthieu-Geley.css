@@ -1,0 +1,46 @@
+body{
+	background-image: linear-gradient(to bottom, #6B6B6B, black );
+	padding-left: 75px;
+	padding-right: 75px;
+	padding-top: 75px;
+}
+
+h1 {
+	padding-left: 250px;
+	padding-right: 140px;
+	text-decoration: wavy underline;
+}
+
+h2{
+	background-color: darkorchid;
+}
+
+h3{
+	background-color: darkviolet;
+	text-decoration: red wavy underline;
+}
+
+.Tête {
+	padding-inline: 15px;
+	color: #A9A9A9;
+}
+
+.Corps {
+	padding-inline: 25px;
+	color: #BFBFBF;
+}
+
+.Forme {
+	padding-inline: 35px;
+	color: #CBCBCB;
+}
+
+.Comp{
+	padding-inline: 45px;
+	color: #D4D4D4 ;
+}
+
+.Infor {
+	padding-inline: 55px;
+	color: #FFFFFF;
+}
