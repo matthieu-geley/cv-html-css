@@ -1,4 +1,4 @@
-body{
+body {
 	background-image: linear-gradient(to bottom, #6B6B6B, black );
 	padding-left: 75px;
 	padding-right: 75px;
@@ -11,11 +11,11 @@ h1 {
 	text-decoration: wavy underline;
 }
 
-h2{
+h2 {
 	background-color: darkorchid;
 }
 
-h3{
+h3 {
 	background-color: darkviolet;
 	text-decoration: red wavy underline;
 }
@@ -35,7 +35,7 @@ h3{
 	color: #CBCBCB;
 }
 
-.Comp{
+.Comp {
 	padding-inline: 45px;
 	color: #D4D4D4 ;
 }
@@ -43,4 +43,8 @@ h3{
 .Infor {
 	padding-inline: 55px;
 	color: #FFFFFF;
+}
+
+.lien {
+	color: dodgerblue;
 }
